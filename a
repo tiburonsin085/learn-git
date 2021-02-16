@@ -1,0 +1,21 @@
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex deb8792..9757802 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -1,3 +1,4 @@[m
+ **.sw*[m
+ .DS_store[m
+ index.js[m
+[32m+[m[32msomething.html[m
+[1mdiff --git a/fun.txt b/fun.txt[m
+[1mindex f40753f..5ca84c5 100644[m
+[1m--- a/fun.txt[m
+[1m+++ b/fun.txt[m
+[36m@@ -1,4 +1,5 @@[m
+ “Hello world!” - said everyone, always[m
+ "Bye, Felicia" - Ice Cube[m
+ jajajaj hey [m
+[31m-wahts ap fsdfdsfds[m
+\ No newline at end of file[m
+[32m+[m[32mwahts ap fsdfdsfds[m
+[32m+[m[32magain other try tyo know waht happens for a lot files[m[41m [m
